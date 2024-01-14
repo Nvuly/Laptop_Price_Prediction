@@ -1,1 +1,1 @@
-# Laptop_Price_Prediction
+# 노트북 가격 예측 회귀 시스템
